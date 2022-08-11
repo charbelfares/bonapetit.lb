@@ -1,0 +1,121 @@
+body{
+    background-color: #F4DDE3;
+    margin:0;
+}
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+.burger{
+    float:right;
+    margin-top:7%;
+    margin-right:2%;
+}
+#myForm{
+    display: none;
+    height: 70%;
+    width: 25%;
+    background-color: #F4DDE3;
+    position: absolute;
+    right:0;
+    top:0;
+    box-shadow: grey -20px 20px 20px 1px; 
+    z-index: 1;
+}
+#reject{
+    position: absolute;
+    top:5%; 
+    left: 65%;
+}
+
+.home{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:20%;
+    margin-left: 11%;
+}
+.profile{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:27%;
+    margin-left: 11%;
+}
+
+.designs{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:34%;
+    margin-left: 11%;
+}
+
+.orders{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:41%;
+    margin-left: 11%;
+    
+}
+.sabiye{
+    position:absolute;
+    margin-left: 12%;
+    margin-top: 13%;
+}
+.order{
+    background-color: white;
+    border-top-left-radius: 125px;
+    border-top-right-radius: 125px;
+    position: absolute;
+    box-shadow:grey 0px -5px 35px 7px;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin-top: 87%;
+}
+.bento{
+    font-family: introscriptdemo-medium;
+    font-size: 100pt;
+    color:#876D56;
+    margin-left: 5%;
+    margin-top: 10%;
+    margin-bottom: 0%;
+}
+.fillings{
+    font-family: poppins-regular;
+    font-size: 45pt;
+    font-weight:bold;
+    margin-left: 5%;
+}
+.container{
+    overflow: scroll;
+    display: inline-flex;
+    width: 100%;
+    flex-direction: row;
+    align-items: baseline;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+figcaption{
+    position: absolute;
+    bottom: 0;
+    font-size: 10pt;
+}
+.fraise{
+    font-size: 32pt;
+    font-family: poppins-light;
+    margin:3%;
+}
+.input{
+    position: absolute;
+    margin-left: 10%;
+    width:70%;
+    height: 10%;
+}

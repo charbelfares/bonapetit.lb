@@ -1,0 +1,168 @@
+
+body{
+    margin:0;
+}
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+.title{
+    font-family: introscriptdemo-medium;
+    color:#876D56;
+    text-align: center;
+    font-size: 110px;
+    margin-top: 12%;
+    position: absolute;
+    margin-left: 32%;   
+}
+.text{
+position: absolute;
+color: #876d56;
+font-family: poppins-regular;
+font-size: 20px;
+margin-top: 25%;margin-left: 36%;
+ text-align: center;
+
+}
+.burger{
+    float:right;
+    margin-top:7%;
+    margin-right:2%;
+}
+#myForm{
+    display: none;
+    height: 70%;
+    width: 25%;
+    background-color: white;
+    position: absolute;
+    right:0;
+    top:0;
+    box-shadow: grey -20px 20px 20px 1px; 
+    z-index: 1;
+}
+#reject{
+    position: absolute;
+    top:5%; 
+    left: 65%;
+}
+
+.home{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:20%;
+    margin-left: 11%;
+}
+.profile{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:27%;
+    margin-left: 11%;
+}
+
+.designs{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:34%;
+    margin-left: 11%;
+}
+
+.orders{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:41%;
+    margin-left: 11%;
+}
+.footer{
+    background-color: #BCD5D1;
+    position:fixed;
+   bottom:0;
+   width:100%;
+   height:10%;
+   font-family: poppins-regular;
+   font-size:20px; 
+   border-top-left-radius: 50px;
+   border-top-right-radius: 50px;
+}
+
+.igicon{
+    margin-top:2%;
+    margin-left:27%;
+}
+.bonapetit{
+    position: absolute;
+    color: #876D56;
+    font-family:poppins-light;
+    top: 17%;
+    margin-left: 1%;
+    }
+.bonapet{
+    bottom: 33%;
+    position: absolute;
+    margin-left: 1%;
+    color: #876D56;
+    font-family:poppins-light;
+}
+#abdop{
+    background-color: rgba(255, 192, 203, 0.575);
+    width: 40%;
+    height: 400px;
+    position: relative;
+    border-radius: 50%;
+    text-align: center;
+    top:20%;
+    left:7%;
+    margin-top: 5%;
+    display: inline-block;
+}
+#abdo{
+    background-color: rgb(107 227 252 / 43%);
+    width: 40%;
+    height: 400px;
+    position: relative;
+    border-radius: 50%;
+    text-align: center;
+    top:20%;
+    left:7%;
+    margin-top: 5%;
+    display: inline-block;
+}
+.lol{
+    margin-top: 7%;
+ width: 85%;
+ height: 85%;
+}
+
+#abdo1{
+    background-color: rgba(255, 192, 203, 0.575);
+    width: 40%;
+    height: 400px;
+    position: relative;
+    border-radius: 50%;
+    text-align: center;
+    top:20%;
+    left:7%;
+    margin-top: 5%;
+    margin-bottom: 75%;
+    display: inline-block;
+}
+#abdo1b{
+    background-color: rgb(107 227 252 / 43%);
+    width: 40%;
+    height: 400px;
+    position: relative;
+    border-radius: 50%;
+    text-align: center;
+    top:20%;
+    left:7%;
+    margin-top: 5%;
+    margin-bottom: 75%;
+    display: inline-block;
+}

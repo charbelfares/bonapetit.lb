@@ -1,0 +1,101 @@
+body{
+    background-color:#BCD5D1 ;
+    margin: 0;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.logo{
+    margin-top:2%;
+    margin-left :2%;
+
+}
+
+.test{
+    margin-top: 25%;
+    margin-left: 2%; 
+    font-family: poppins-regular;
+    color: #876D56;
+    font-size: 100px;
+}
+.burger{
+    float:right;
+    margin-top:7%;
+    margin-right:2%;
+}
+
+.button1{
+    color:#876D56;
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    font-size: 35;
+    font-family: poppins-regular;
+    display: block;
+    padding: 2%;
+    width: 429;
+    text-align: center;
+    box-shadow: grey 0px 20px 20px 2px;
+    margin-left:2%;
+}
+.cake{
+    position: absolute;
+    /* height: -webkit-fill-available; */
+    width: 70%;
+    top: 60%;
+    right: 0
+    }
+#myForm{
+    display: none;
+    height: 70%;
+    width: 25%;
+    background-color: #bcd5d1;
+    position: absolute;
+    right:0;
+    top:0;
+    box-shadow: grey -20px 20px 20px 1px; 
+    z-index: 1;
+}
+#reject{
+    position: absolute;
+    top:5%; 
+    left: 65%;
+}
+
+.home{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:20%;
+    margin-left: 11%;
+}
+.profile{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:27%;
+    margin-left: 11%;
+}
+
+.designs{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:34%;
+    margin-left: 11%;
+}
+
+.orders{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:41%;
+    margin-left: 11%;
+}

@@ -1,0 +1,64 @@
+@font-face {
+    font-family: introscriptdemo-medium;
+    src: url(../Fonts/IntroScriptDemo-Medium.ttf);
+}
+
+@font-face {
+    font-family: poppins bold;
+    src: url(../Fonts/poppins.bold.ttf);
+}
+
+@font-face {
+    font-family: poppinsextralight-italic;
+    src: url(../Fonts/poppins.extralight-italic.ttf);
+}
+
+@font-face {
+    font-family: poppins italic;
+    src: url(../Fonts/poppins.italic.ttf);
+}
+
+@font-face {
+    font-family: poppinslight-italic;
+    src: url(../Fonts/poppins.light-italic.ttf);
+}
+
+@font-face {
+    font-family: poppins-light;
+    src: url(../Fonts/poppins.light.ttf);
+}
+
+@font-face {
+    font-family: poppinsmedium-italic;
+    src: url(../Fonts/poppins.medium-italic.ttf);
+}
+
+@font-face {
+    font-family: poppins-medium;
+    src: url(../Fonts/poppins.medium.ttf);
+}
+
+@font-face {
+    font-family: poppins-regular;
+    src: url(../Fonts/poppins.regular.ttf);
+}
+
+@font-face {
+    font-family: poppins-semibold-italic;
+    src: url(../Fonts/poppins.semibold-italic.ttf);
+}
+
+@font-face {
+    font-family: poppins-semibold;
+    src: url(../Fonts/poppins.semibold.ttf);
+}
+
+@font-face {
+    font-family: poppinsthin-italic;
+    src: url(../Fonts/poppins.thin-italic.ttf);
+}
+
+@font-face {
+    font-family: poppins-thin;
+    src: url(../Fonts/poppins.thin.ttf);
+}
