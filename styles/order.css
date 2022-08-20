@@ -76,7 +76,7 @@ a, a:hover, a:focus, a:active {
     box-shadow:grey 0px -5px 35px 7px;
     position: absolute;
     width: 100%;
-    height: 100%;
+    height: 110%;
     margin-top: 87%;
 }
 .bento{
@@ -115,7 +115,71 @@ figcaption{
 }
 .input{
     position: absolute;
-    margin-left: 10%;
+    margin-left: 15%;
     width:70%;
-    height: 10%;
+    margin-top: 5%;
+    /* border:1px black solid; */
+    height: 90px;
+    border-radius: 25px;
+    text-align: center;
+    box-shadow:grey 0px 0px 15px 0px;
+}
+input[type="textarea"] {
+    margin-left: 15%;
+    width:70%;
+    height: 350px;
+    position: absolute;
+    margin-top: 5%;
+    border-radius: 25px;
+    box-shadow:grey 0px 0px 15px 0px;
+    border:0;
+}
+
+::placeholder{
+    font-family: poppins-light;
+    font-size: 25pt;
+    color: grey;
+    position: absolute;
+    margin:5%;
+}
+.img{
+margin-top: 3%;
+}
+input[type="file"] {
+    display: none;
+}
+.buton{
+    position:absolute;
+    margin-left:43%;
+    margin-top: 37%;
+    background-color: #BCD5D1;
+    border:0;
+    border-radius: 25px;
+    font-family: poppins-regular;
+    font-size: 25pt;
+    color: white;
+    width: 20%;
+    height: 90px;
+}
+
+.fillbox{
+    position: absolute;
+    width: 70%;
+    height: 90px;
+    margin-left: 15%;
+    border-radius: 25px;
+    border:0;
+    box-shadow:grey 0px 0px 15px 0px;
+    -webkit-appearance: none;
+    font-family: poppins-light;
+    font-size: 30pt;
+    color: gray;
+    text-align: center;
+}
+
+.jareb{
+    font-family: poppins-light;
+    font-size: 30pt;
+    color: gray;
+    margin-left: 5%;
 }

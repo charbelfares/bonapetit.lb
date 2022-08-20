@@ -10,17 +10,19 @@ a, a:hover, a:focus, a:active {
 
 
 .logo{
-    margin-top:2%;
-    margin-left :2%;
+    margin-top:5%;
+    margin-left :10%;
 
 }
 
 .test{
     margin-top: 25%;
-    margin-left: 2%; 
-    font-family: poppins-regular;
+    margin-left: 10%; 
+    font-family: poppins-semibold;
+    font-weight: bolder;
     color: #876D56;
     font-size: 100px;
+    /* line-height: 125%; */
 }
 .burger{
     float:right;
@@ -39,11 +41,10 @@ a, a:hover, a:focus, a:active {
     width: 429;
     text-align: center;
     box-shadow: grey 0px 20px 20px 2px;
-    margin-left:2%;
+    margin-left:10%;
 }
 .cake{
     position: absolute;
-    /* height: -webkit-fill-available; */
     width: 70%;
     top: 60%;
     right: 0

@@ -1,0 +1,157 @@
+body{
+    margin:0;
+}
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+.burger{
+    float:right;
+    margin-top:7%;
+    margin-right:2%;
+}
+#myForm{
+    display: none;
+    height: 70%;
+    width: 25%;
+    background-color: white;
+    position: absolute;
+    right:0;
+    top:0;
+    box-shadow: grey -20px 20px 20px 1px; 
+    z-index: 1;
+}
+#reject{
+    position: absolute;
+    top:5%; 
+    left: 65%;
+}
+
+.home{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:20%;
+    margin-left: 11%;
+}
+.profile{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:27%;
+    margin-left: 11%;
+}
+
+.designs{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:34%;
+    margin-left: 11%;
+}
+
+.orders{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:41%;
+    margin-left: 11%;
+}
+.bro{
+    color: #BCD5D1;
+    font-family:introscriptdemo-medium;
+    text-align: center;
+    font-size: 110px;
+    margin-top: 12%;
+    position: absolute;
+    margin-left: 37%;  
+}
+
+.title{
+    font-family: introscriptdemo-medium;
+    color:#876D56;
+    text-align: center;
+    font-size: 115pt;
+    margin-top: 10%;
+    position: absolute;
+    margin-left: 31%;   
+}
+.text{
+    position: absolute;
+    color: #876d56;
+    font-family: poppins-regular;
+    font-size: 20px;
+    margin-top: 25%;
+    margin-left: 32%;
+     text-align: center;
+    
+    }
+    .option{
+        font-family: poppins-medium;
+        font-size: 48pt;
+        position: absolute;
+        margin-left:5%;
+        margin-top: 40%;
+    }
+    .option-under{
+        font-family: poppins-light;
+        font-size: 30pt;
+        position: absolute;
+        margin-left:5%;
+        margin-top: 50%;
+    }
+.delivery-form{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin-top:60%;
+    background-color: white;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    box-shadow: grey 0px -14px 68px -22px;
+}
+.title-under{
+    font-family: introscriptdemo-medium;
+    color:#876D56;
+    text-align: center;
+    font-size: 80pt;
+    margin: 5%;
+}
+.font{
+    font-family: poppins-medium;
+    font-size: 40pt;
+    margin-left: 5%;
+}
+.input{
+    border:none;
+    width: 850px;
+    border-radius: 25px;
+    box-shadow: 1px 5px 20pt 5pt #d3d3d3;
+    height: 110px;
+    margin-left: 5%;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: gray;
+    opacity: 1; 
+    font-family: poppins-light;
+    font-size: 25pt;
+    text-align: left;
+  }
+  input[type='text'] { font-size: 30pt;  font-family: poppins-light;}
+  input[type='password'] { font-size: 30pt;  font-family: poppins-light;}
+  input[type='tel'] { font-size: 30pt;  font-family: poppins-light;}
+  select{font-size: 25pt;  font-family: poppins-light;}
+  
+  .input1{
+    border:none;
+    width: 850px;
+    border-radius: 25px;
+    box-shadow: 1px 5px 20pt 5pt #d3d3d3;
+    height: 510px;
+    margin-left: 5%;
+  }

@@ -23,7 +23,7 @@
             <a href="register.php"> Profile </a>
             </div>
             <div class="designs">
-                Designss
+                Designs
             </div>
             <div class="orders">
             <a href="order.php"> Orders</a>

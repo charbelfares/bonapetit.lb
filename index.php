@@ -1,13 +1,13 @@
 <html>
     <head>
-    <link rel="stylesheet" href="styles/indexx.css">
+    <link rel="stylesheet" href="styles/index.css">
     <link rel="stylesheet" href="styles/fonts.css">
     <script src="inde.js"></script>
     </head>
     <body>
         <img src="Links/Icons/Asset.png" class="logo">
         <img src="Links/Icons/burger.png" class="burger" onclick="openForm()">
-        <h1 class="test">Un petit box<br>plein de plaisir</h1>
+        <h1 class="test"><b>Un petit box<br>plein de plaisir</b></h1>
        <a href="order.php"> <span class="button1">
        &nbsp;&nbsp; Design your cake &nbsp;&nbsp
         </span></a>
