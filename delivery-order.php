@@ -59,7 +59,9 @@
                 </select>
                 <br><br><br><br><br><br>
                 <input type="text" class="input1" name="info" placeholder="Note about your order, special notes for delivery">
-            </form>
+            </form><br><br><br>
+            <a href=""><div class="pickup">&nbsp;&nbsp;Pick up</div></a><br><br><br><br><br><br>
+            <input type="submit" value="Checkout" class="submit">
             </div>
     </body>
 </html>
