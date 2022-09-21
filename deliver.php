@@ -1,6 +1,6 @@
 <html>
     <head>
-    <link rel="stylesheet" href="styles/delivery.css">
+    <link rel="stylesheet" href="styles/deliver.css">
     <link rel="stylesheet" href="styles/fonts.css">
     <script src="inde.js"></script>
     </head>
@@ -37,9 +37,9 @@
                 <img src="Links/Icons/mail.png" class="igicon"><span class="bonapet">bon.a.petit@outlook.com</span>
                 <img src="Links/Icons/call.png" class="igicon"><span class="bonapet">+961 3 779651</span>
             </div>
-            <div class="option">Option</div>
+            <div class="option">Options</div>
             <div class="option-under">* order three days ahead</div>
             <a href="delivery-order.php"><div class="delivery">&nbsp;&nbsp;Delivery</div></a><br>
-            <a href=""><div class="pickup">&nbsp;&nbsp;Pick up</div></a>
+            <a href="pickup-orders.php"><div class="pickup">&nbsp;&nbsp;Pick up</div></a>
     </body>
 </html>

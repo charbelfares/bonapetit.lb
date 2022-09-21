@@ -1,0 +1,210 @@
+body{
+    margin: 0;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+b{
+    opacity: 100%;
+}
+
+.burger{
+    float:right;
+    margin-top:7%;
+    margin-right:2%;
+}
+#myForm{
+    display: none;
+    height: 70%;
+    width: 25%;
+    background-color: white;
+    position: absolute;
+    right:0;
+    top:0;
+    box-shadow: grey -20px 20px 20px 1px; 
+    z-index: 1;
+}
+#reject{
+    position: absolute;
+    top:5%; 
+    left: 65%;
+}
+
+.home{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:20%;
+    margin-left: 11%;
+}
+.profile{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:27%;
+    margin-left: 11%;
+}
+
+.designs{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:34%;
+    margin-left: 11%;
+}
+
+.orders{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:41%;
+    margin-left: 11%;
+}
+.arrow{
+    border:0;
+    background-color: white;
+    margin-top:5%;
+    margin-left:2%;
+}
+.title{
+    color:#A4C7DB;
+    font-size: 120pt;
+    font-family: introscriptdemo-medium;
+    margin-left: 10%;
+    margin-top: 12%;
+    position: absolute;
+}
+.your{
+    color:black;
+    font-size: 40pt;
+    font-family: poppins-medium;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 25%;
+}
+.product{
+    font-size: 30pt;
+    font-family: poppins-light;
+    margin-top: 35%;
+    margin-left: 5%;
+    position: absolute;
+}
+.line
+{
+    border:0.5px black solid;
+    width: 80%;
+    height:00px;
+    position: absolute;
+    margin-top:42%;
+    margin-left: 5%;
+    opacity: 20%;
+}
+.cake{
+    font-size: 30pt;
+    opacity: 70%;
+    font-family: poppins-light;
+    margin-left: 5%;
+    margin-top: 45%;
+    
+}
+.line1{
+        border:0.5px black solid;
+        width: 80%;
+        height:00px;
+        position: absolute;
+        margin-top:3%;
+        margin-left: 5%;
+        opacity: 20%;
+}
+.product1{
+    font-size: 30pt;
+    font-family: poppins-light;
+    margin-top: 5%;
+    margin-left: 5%;
+    position: absolute;
+}
+.line2{
+    border:0.5px black solid;
+    width: 80%;
+    height:00px;
+    position: absolute;
+    margin-top:13%;
+    margin-left: 5%;
+    opacity: 20%;
+}
+.cake1{
+    font-size: 30pt;
+    opacity: 70%;
+    font-family: poppins-light;
+    margin-left: 5%;
+    margin-top: 15%;
+}
+.line3{
+    border:0.5px black solid;
+    width: 80%;
+    height:00px;
+    position: absolute;
+    margin-top:2%;
+    margin-left: 5%;
+    opacity: 20%;
+}
+.line4{
+    border:0.5px black solid;
+    width: 80%;
+    height:00px;
+    position: absolute;
+    margin-top:12%;
+    margin-left: 5%;
+    opacity: 20%;
+}
+.line5{
+    border:0.5px black solid;
+    width: 80%;
+    height:00px;
+    position: absolute;
+    margin-top:13%;
+    margin-left: 5%;
+    opacity: 20%;
+}
+.note{
+    font-size: 22pt;
+    font-family: poppins-light;
+    opacity: 70%;
+    margin-left: 5%;
+    margin-top: 7%;
+    position: absolute;
+}
+.cash{
+    font-size: 35pt;
+    font-family: poppins-medium;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 17%;
+}
+.cash1{
+    font-size: 35pt;
+    font-family: poppins-medium;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 15%;
+}
+.button{
+    background-color: #A4C7DB;
+    font-size: 20pt;
+    font-family: poppins-semibold;
+    position: absolute;
+    border:0;
+    border-radius: 25px;
+    height: 80px;
+    margin-left:35%;
+    margin-top: 40%;
+    width: 300px;
+    color: white;
+    box-shadow: grey 0px 20px 28px -12px;
+}

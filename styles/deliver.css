@@ -1,0 +1,163 @@
+body{
+    margin:0;
+}
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+.burger{
+    float:right;
+    margin-top:7%;
+    margin-right:2%;
+}
+#myForm{
+    display: none;
+    height: 70%;
+    width: 25%;
+    background-color: white;
+    position: absolute;
+    right:0;
+    top:0;
+    box-shadow: grey -20px 20px 20px 1px; 
+    z-index: 1;
+}
+#reject{
+    position: absolute;
+    top:5%; 
+    left: 65%;
+}
+
+.home{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:20%;
+    margin-left: 11%;
+}
+.profile{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:27%;
+    margin-left: 11%;
+}
+
+.designs{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:34%;
+    margin-left: 11%;
+}
+
+.orders{
+    position: absolute;
+    color:#876D56;
+    font-family: poppins-regular;
+    font-size:40pt;
+    top:41%;
+    margin-left: 11%;
+}
+.bro{
+    color: #BCD5D1;
+    font-family:introscriptdemo-medium;
+    text-align: center;
+    font-size: 110px;
+    margin-top: 12%;
+    position: absolute;
+    margin-left: 37%;  
+}
+
+.title{
+    font-family: introscriptdemo-medium;
+    color:#876D56;
+    text-align: center;
+    font-size: 115pt;
+    margin-top: 10%;
+    position: absolute;
+    margin-left: 31%;   
+}
+
+.text{
+    position: absolute;
+    color: #876d56;
+    font-family: poppins-regular;
+    font-size: 20px;
+    margin-top: 25%;
+    margin-left: 32%;
+     text-align: center;
+    
+    }
+    .footer{
+        background-color: #BCD5D1;
+        position:fixed;
+       bottom:0;
+       width:100%;
+       height:10%;
+       font-family: poppins-regular;
+       font-size:20px; 
+       border-top-left-radius: 50px;
+       border-top-right-radius: 50px;
+    }
+    
+    .igicon{
+        margin-top:2%;
+        margin-left:27%;
+    }
+    .bonapetit{
+        position: absolute;
+        color: #876D56;
+        font-family:poppins-light;
+        top: 17%;
+        margin-left: 1%;
+        }
+    .bonapet{
+        bottom: 33%;
+        position: absolute;
+        margin-left: 1%;
+        color: #876D56;
+        font-family:poppins-light;
+    }
+.option{
+    font-family: poppins-medium;
+    font-size: 48pt;
+    position: absolute;
+    margin-left:5%;
+    margin-top: 40%;
+}
+.option-under{
+    font-family: poppins-light;
+    font-size: 30pt;
+    position: absolute;
+    margin-left:5%;
+    margin-top: 50%;
+}
+.delivery{
+    position:absolute;
+    color:#876D56;
+    font-family: introscriptdemo-medium;
+    font-size: 80pt;
+    margin-top: 60%;
+    border-radius: 100px;
+    width: 100%;
+    height: 20%;
+
+    padding-top: 15px;
+    box-shadow: grey 0px -49px 68px -54px;
+}
+.pickup{
+    padding-top: 15px;
+    position:absolute;
+    color:#876D56;
+    font-family: introscriptdemo-medium;
+    font-size: 80pt;
+    margin-top: 75%;
+    border-radius: 100px;
+    height: 20%;
+    width: 100%;
+    box-shadow: grey 0px -17px 26px -20px;
+}
+

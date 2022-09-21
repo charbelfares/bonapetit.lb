@@ -1,6 +1,6 @@
 <html>
     <head>
-    <link rel="stylesheet" href="styles/deliver-order.css">
+    <link rel="stylesheet" href="styles/deliver-orders.css">
     <link rel="stylesheet" href="styles/fonts.css">
     <script src="inde.js"></script>
     </head>
@@ -31,7 +31,7 @@
         </span>
         <div class="option">Options</div>
             <div class="option-under">* order three days ahead</div>
-            <div class="delivery-form"><br><br>
+            <div class="delivery-form"><br>
                 <span class="title-under">Delivery</span>
             <form>
                 <label for="fullname" class="font">
@@ -60,8 +60,8 @@
                 <br><br><br><br><br><br>
                 <input type="text" class="input1" name="info" placeholder="Note about your order, special notes for delivery">
             </form><br><br><br>
-            <a href=""><div class="pickup">&nbsp;&nbsp;Pick up</div></a><br><br><br><br><br><br>
-            <input type="submit" value="Checkout" class="submit">
+            <a href="pickup-orders.php"><div class="pickup">&nbsp;&nbsp;Pick up</div></a><br><br><br><br><br><br>
+            <a href="checkout.php"><input type="submit" value="Checkout" class="submit"></a>
             </div>
     </body>
 </html>
